@@ -1,1 +1,3 @@
 learn to forbid "fast forward" mode.
+----------
+2023/9/17 learn to solve bug problems.
